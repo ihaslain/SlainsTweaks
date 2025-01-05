@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "slainstweaks:polished_amethyst",
+    "slainstweaks:polished_amethyst_bricks",
+    "slainstweaks:polished_andesite_bricks",
+    "slainstweaks:polished_granite_bricks",
+    "slainstweaks:polished_diorite_bricks",
+    "slainstweaks:polished_amethyst_slab",
+    "slainstweaks:polished_amethyst_stairs",
+    "slainstweaks:polished_amethyst_brick_slab",
+    "slainstweaks:polished_amethyst_brick_stairs",
+    "slainstweaks:polished_granite_brick_slab",
+    "slainstweaks:polished_granite_brick_stairs",
+    "slainstweaks:polished_andesite_brick_slab",
+    "slainstweaks:polished_andesite_brick_stairs",
+    "slainstweaks:polished_diorite_brick_slab",
+    "slainstweaks:polished_diorite_brick_stairs"
+
+  ]
+
+}

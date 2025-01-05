@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "slainstweaks:block/polished_amethyst",
+    "side": "slainstweaks:block/polished_amethyst",
+    "top": "slainstweaks:block/polished_amethyst"
+  }
+}

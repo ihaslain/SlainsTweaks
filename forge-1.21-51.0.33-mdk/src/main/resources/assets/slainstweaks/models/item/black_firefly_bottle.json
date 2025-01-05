@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "slainstweaks:item/black_firefly_bottle"
+  }
+}

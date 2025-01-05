@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "slainstweaks:block/polished_amethyst_slab"
+    },
+    "type=double": {
+      "model": "slainstweaks:block/polished_amethyst"
+    },
+    "type=top": {
+      "model": "slainstweaks:block/polished_amethyst_slab_top"
+    }
+  }
+}

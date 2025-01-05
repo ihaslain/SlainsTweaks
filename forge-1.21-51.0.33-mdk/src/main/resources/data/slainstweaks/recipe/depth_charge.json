@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "slainstweaks:prismarine_rod"
+    },
+    "I": {
+      "item": "minecraft:gunpowder"
+    },
+    "X": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "pattern": [
+    "IX",
+    "#X"
+  ],
+  "result": {
+    "count": 4,
+    "id": "slainstweaks:depth_charge"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "slainstweaks:block/polished_andesite_bricks",
+    "side": "slainstweaks:block/polished_andesite_bricks",
+    "top": "slainstweaks:block/polished_andesite_bricks"
+  }
+}

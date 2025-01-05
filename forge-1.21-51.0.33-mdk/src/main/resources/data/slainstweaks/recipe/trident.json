@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "slainstweaks:prismarine_rod"
+    },
+    "I": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "X": {
+      "item": "slainstweaks:dent"
+    }
+  },
+  "pattern": [
+    "XXX",
+    " I ",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:trident"
+  }
+}

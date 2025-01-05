@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "slainstweaks:block/polished_amethyst_bricks",
+    "side": "slainstweaks:block/polished_amethyst_bricks",
+    "top": "slainstweaks:block/polished_amethyst_bricks"
+  }
+}
