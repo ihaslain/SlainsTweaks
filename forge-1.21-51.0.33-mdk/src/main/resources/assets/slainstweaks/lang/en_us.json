@@ -54,6 +54,7 @@
   "entity.slainstweaks.depth_charge": "Depth Charge",
 
 
-  "tooltip.slainstweaks.buckle": "Attach a utility item to enable a keybind for it."
+  "tooltip.slainstweaks.buckle": "Attach up to two utility items to enable keybinds for them."
+
 
 }
